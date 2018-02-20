@@ -23,5 +23,5 @@ Ekran kayıt uygulaması (Bandicam gibi) yerine bir dış kamera (telefon gibi) 
 Başlığınızı da kolay bulunması için "#ClubbyAppTepki' hashtagi ile yayınlayın.
 
 
-<iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fruzgarsanli.github.io%2Fclubbyapp&layout=button&size=large&mobile_iframe=true&width=75&height=28&appId" width="75" height="28" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+<div class="fb-share-button" data-href="https://ruzgarsanli.github.io/clubbyapp" data-layout="button" data-size="large" data-mobile-iframe="true"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fruzgarsanli.github.io%2Fclubbyapp&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Paylaş</a></div>
 
